@@ -1,5 +1,5 @@
 test Git Quick Start
 otra linea
 linea de tercera rama
-linea para conflicto realwork
+linea para rebase
 
