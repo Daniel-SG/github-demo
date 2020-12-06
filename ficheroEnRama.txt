@@ -2,3 +2,4 @@ este fichero es de PrimeraRama
 modificacion hecha en segunda rama
 toma rebasee
 cambio en github2
+cambio stash
