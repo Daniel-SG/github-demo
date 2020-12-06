@@ -5,3 +5,4 @@ linea para rebase
 linea rebase desde github, este local
 linea rebase desde github, este local2
 linea para stash
+otra mas stash
